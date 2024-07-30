@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiplayerGame</string>
+    <string name="title_activity_user_game_join">UserGameJoin</string>
+    <string name="title_activity_play_game">PlayGame</string>
+    <string name="title_activity_join_card_guess_game">JoinCardGuessGame</string>
+    <string name="title_activity_join_tic_toe">JoinTicToe</string>
+    <string name="title_activity_join_card_game">JoinCardGame</string>
+</resources>

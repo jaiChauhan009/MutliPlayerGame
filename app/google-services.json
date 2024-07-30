@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "261541365494",
+    "firebase_url": "https://multiplayergame-1dbbe-default-rtdb.firebaseio.com",
+    "project_id": "multiplayergame-1dbbe",
+    "storage_bucket": "multiplayergame-1dbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261541365494:android:896ddcdb26fe4a90400ed7",
+        "android_client_info": {
+          "package_name": "com.example.multiplayergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUsAPKBhvMKzuqBHICha7SW9iULgg6WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
